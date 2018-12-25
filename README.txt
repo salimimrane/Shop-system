@@ -7,4 +7,4 @@
 
 -There is one issues in this project, when you unlike a shop the database is changed and some data are stored in the cookies but the shop still apparing in the nearby shops knowing that the cookies lifetime is 2 hours as asked. but still don't know why !
 
--That's all, I hope you enjoy the code.
+-That's all, I hope you enjoy my code.
